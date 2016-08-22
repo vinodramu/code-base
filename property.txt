@@ -1,0 +1,3 @@
+GitVers1  = litmus-main-data-mirroring-default-all-tests-rh6
+GitVers2  = litmus-501-620-multi-instance-upgrade-2node-mirroring-default-rh5-defect28
+GitVers3  = litmus-main-data-mirroring-non-default-all-tests-rh6
