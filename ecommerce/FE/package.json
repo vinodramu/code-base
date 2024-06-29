@@ -18,7 +18,7 @@
   ],
   "main": "index.js",
   "repository": "https://github.com/kirill-zhirnov/boundless-nextjs-sample",
-  "author": "Kirill Zhirnov <ekvixgroup@gmail.com>",
+  "author": "Vinod Ramu",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
